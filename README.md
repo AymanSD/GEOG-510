@@ -1,2 +1,2 @@
 # GEOG-510
-GeoSoftware Development
+GeoSoftware Development Tutorial
